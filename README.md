@@ -22,8 +22,7 @@ The next step of this project was the creation of a dynamic dashboard. Equipped 
 ## Visualizations
 
 Here is the dashboard created during this project:
-
-(https://github.com/iamsawyer9/Bikes-Sales-Analysis-Excel/blob/b598793a42426ef33015abdb5341e67b5ef97972/Bikes%20dashboard.png)
+[Dashboard](https://github.com/iamsawyer9/Bikes-Sales-Analysis-Excel/blob/b598793a42426ef33015abdb5341e67b5ef97972/Bikes%20dashboard.png)
 
 
 
